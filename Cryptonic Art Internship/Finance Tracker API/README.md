@@ -30,7 +30,7 @@ Financial Analytics: Automatic calculation of current balances and period-based 
 Interactive Documentation: Complete Swagger/OpenAPI 3.0 specification providing an interactive UI for API exploration and testing.
 
 🚀 Quick Start
-Clone the Repo: git clone [Your-Repo-URL]
+Clone the Repo: git clone (https://github.com/AbdulRahman-Alzoubi/Projects/tree/main/Cryptonic%20Art%20Internship/Finance%20Tracker%20API)
 
 Install Dependencies: npm install 
 
